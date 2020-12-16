@@ -1,0 +1,24 @@
+{
+  "account_number": "814119",
+  "chain_id": "Binance-Chain-Tigris",
+  "data": "null",
+  "memo": "test",
+  "msgs": [
+    {
+      "inputs": [
+        {
+          "address": "bnb1w0zp0e2unswlvzn8sdp6me9jyfpt09gxuzsgq0",
+          "coins": [{ "amount": 1000000, "denom": "BNB" }]
+        }
+      ],
+      "outputs": [
+        {
+          "address": "bnb1fpgd9sqnnh57s095eqchmmg3aj6pzd0u7fsm9y",
+          "coins": [{ "amount": 1000000, "denom": "BNB" }]
+        }
+      ]
+    }
+  ],
+  "sequence": "0",
+  "source": "0"
+}
